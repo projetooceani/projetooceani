@@ -18,7 +18,7 @@ Projeto de conclusão desenvolvido pelo bootcamp da [Generation](https://brazil.
  
 
 ## Contexto
-<img src="![logo](https://user-images.githubusercontent.com/89640954/139086575-7309a4f8-9bfe-4745-a5da-8b8b51e8bb66.jpeg)" alt="criança negra escrevendo no caderno e olhando para o notebook com um professor escrevendo em uma lousa" width ="250" align="right" padding="250"/>
+<img src="https://i.imgur.com/HijYIGP.jpg" alt="criança negra escrevendo no caderno e olhando para o notebook com um professor escrevendo em uma lousa" width ="250" align="right" padding="250"/>
 
 
 A ODS-14 é responsável pela conservção e utilização dos oceanos, mares e recursos marinhos para o desenvolvimento sustentável afim de regular o sistema climático global. Atualmente, os oceanos representam, aproximadamente, US$ 3 trilhões de dólares da economia global por ano, o que dá 5% do PIB global. 40% deles são afetados diretamente por atividades humanas como poluição e pesca predatória, que resulta em perda de habitat. Esses impactos contribuem para a degradaçãodos oceanos. Uma curiosidade lamentável é que há em torno de 13.000 pedaços de lixo plástico em cada quilômetro quadrado. Por isso a ODS-14 é importante para gerenciar e proteger a vida na água.<br>
